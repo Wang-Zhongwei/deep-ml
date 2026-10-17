@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T20:42:50.190Z",
+  "generated_at": "2026-10-17T04:37:05.208Z",
   "items": {
     "problem:497": {
       "kind": "problem",
@@ -39,6 +39,19 @@
       "last_pushed_at": "2026-10-16T20:42:49.432Z",
       "language": "python",
       "lines": 72
+    },
+    "problem:436": {
+      "kind": "problem",
+      "id": "436",
+      "title": "KV Cache Tiered Offloading Simulator",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/436",
+      "path": "problems/0436-kv-cache-tiered-offloading-simulator",
+      "first_solved_at": "2026-10-17T04:37:04.502Z",
+      "last_pushed_at": "2026-10-17T04:37:04.502Z",
+      "language": "python",
+      "lines": 52
     }
   }
 }
