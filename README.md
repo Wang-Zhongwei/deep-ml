@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**4** solved · 4 problems · 0 labs · 0 math
+**5** solved · 5 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Implement INT8 Quantization](https://www.deep-ml.com/problems/294) | medium | 2026-10-18 | [solution](problems/0294-implement-int8-quantization) |
 | [KV Cache Memory Budget and Eviction Policy](https://www.deep-ml.com/problems/435) | medium | 2026-10-16 | [solution](problems/0435-kv-cache-memory-budget-and-eviction-policy) |
 | [KV Cache Tiered Offloading Simulator](https://www.deep-ml.com/problems/436) | medium | 2026-10-17 | [solution](problems/0436-kv-cache-tiered-offloading-simulator) |
 | [Preemption Strategies: Swapping vs Recomputation](https://www.deep-ml.com/problems/497) | medium | 2026-09-22 | [solution](problems/0497-preemption-strategies-swapping-vs-recomputation) |
