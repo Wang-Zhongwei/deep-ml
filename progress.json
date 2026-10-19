@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T01:38:48.207Z",
+  "generated_at": "2026-10-19T02:58:56.538Z",
   "items": {
     "problem:497": {
       "kind": "problem",
@@ -65,6 +65,19 @@
       "last_pushed_at": "2026-10-18T01:38:43.781Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:425": {
+      "kind": "problem",
+      "id": "425",
+      "title": "Continuous Batching (In-Flight Batching) Simulator",
+      "difficulty": "medium",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/425",
+      "path": "problems/0425-continuous-batching-in-flight-batching-simulator",
+      "first_solved_at": "2026-10-19T02:58:55.964Z",
+      "last_pushed_at": "2026-10-19T02:58:55.964Z",
+      "language": "python",
+      "lines": 51
     }
   }
 }
