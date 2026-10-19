@@ -32,6 +32,8 @@ def continuous_batching_sim(requests: list[dict], max_batch_size: int) -> dict:
         pool = new_pool
 
         if len(pool) == 0 and i < n and requests[i]['arrival_time'] > t + 1:
+            # advance t to the next FUTURE arrival time
+            # last condition is required because requests[i] arrival time might be at or before t. But you at least need to advance time by 1
             t = requests[i]['arrival_time']
         else:
             t += 1
