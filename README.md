@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**6** solved · 6 problems · 0 labs · 0 math
+**7** solved · 7 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Prefix Cache Hit Rate Calculator](https://www.deep-ml.com/problems/434) | easy | 2026-11-08 | [solution](problems/0434-prefix-cache-hit-rate-calculator) |
 | [Continuous Batching (In-Flight Batching) Simulator](https://www.deep-ml.com/problems/425) | medium | 2026-10-19 | [solution](problems/0425-continuous-batching-in-flight-batching-simulator) |
 | [Implement INT8 Quantization](https://www.deep-ml.com/problems/294) | medium | 2026-10-18 | [solution](problems/0294-implement-int8-quantization) |
 | [KV Cache Memory Budget and Eviction Policy](https://www.deep-ml.com/problems/435) | medium | 2026-10-16 | [solution](problems/0435-kv-cache-memory-budget-and-eviction-policy) |
